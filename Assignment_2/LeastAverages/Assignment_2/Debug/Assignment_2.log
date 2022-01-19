@@ -1,0 +1,12 @@
+﻿  LeastAverages.cpp
+D:\Desktop\Assignments\AoA\Assignment_2\LeastAverages\Assignment_2\LeastAverages.cpp(26,29): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\Desktop\Assignments\AoA\Assignment_2\LeastAverages\Assignment_2\LeastAverages.cpp(27,53): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Assignment_2.vcxproj -> D:\Desktop\Assignments\AoA\Assignment_2\LeastAverages\Debug\LeastAverages.exe

@@ -1,0 +1,7 @@
+﻿  Find_MST.cpp
+  Graph.cpp
+D:\Desktop\Assignments\AoA\Assignment_1\Find_MST\Graph.cpp(82,21): warning C4018: '<': signed/unsigned mismatch
+D:\Desktop\Assignments\AoA\Assignment_1\Find_MST\Graph.cpp(96,20): warning C4018: '<': signed/unsigned mismatch
+D:\Desktop\Assignments\AoA\Assignment_1\Find_MST\Graph.cpp(110,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Find_MST.vcxproj -> D:\Desktop\Assignments\AoA\Assignment_1\Debug\Find_MST.exe
